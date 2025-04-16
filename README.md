@@ -2,6 +2,16 @@
 
 This project builds a simple ETL pipeline using open data from Argentina's national statistics office (INDEC). It focuses on the **monthly evolution of the Consumer Price Index (IPC)**, a key macroeconomic indicator that reflects inflation trends across the country.
 
+## 📌 Data Source
+
+Dataset Name: Índice de Precios al Consumidor (IPC) - Nacional Promedio Mensual
+Organization: INDEC (Instituto Nacional de Estadística y Censos), Ministerio de Economía de Argentina
+Format: CSV (Comma-separated values)
+Update Frequency: Monthly
+Data Portal: https://datos.gob.ar
+Dataset URL: INDEC - IPC Nacional
+Direct CSV Link: Download CSV
+
 ## 🛠️ Tools & Technologies
 
 - **Python**: Main language for scripting and data manipulation
